@@ -27,161 +27,68 @@ from googletrans import Translator
 #==============================================================================#
 botStart = time.time()
 #kalo mau login code qr disini pake
+
 gye = LINE()
-gye.log("Auth Token : " + str(gye.authToken))
-channelToken = gye.getChannelResult()
-gye.log("Channel Token : " + str(channelToken))
 
-ais = LINE()
-ais.log("Auth Token : " + str(ais.authToken))
-channelToken = ais.getChannelResult()
-ais.log("Channel Token : " + str(channelToken))
+ais = LINE("virojano@coin-one.com","112233we")
 
-ki2 = LINE()
-ki2.log("Auth Token : " + str(ki2.authToken))
-channelToken = ki2.getChannelResult()
-ki2.log("Channel Token : " + str(channelToken))
+ki2 = LINE("virojano@coin-one.com","112233we")
 
-ki3 = LINE()
-ki3.log("Auth Token : " + str(ki3.authToken))
-channelToken = ki3.getChannelResult()
-ki3.log("Channel Token : " + str(channelToken))
+ki3 = LINE("virojano@coin-one.com","112233we")
 
-ki4 = LINE()
-ki4.log("Auth Token : " + str(gye.authToken))
-channelToken = ki4.getChannelResult()
-ki4.log("Channel Token : " + str(channelToken))
+ki4 = LINE("virojano@coin-one.com","112233we")
 
-ki5 = LINE()
-ki5.log("Auth Token : " + str(gye.authToken))
-channelToken = ki5.getChannelResult()
-ki5.log("Channel Token : " + str(channelToken))
+ki5 = LINE("virojano@coin-one.com","112233we")
 
-ki6 = LINE()
-ki6.log("Auth Token : " + str(gye.authToken))
-channelToken = ki6.getChannelResult()
-ki6.log("Channel Token : " + str(channelToken))
+ki6 = LINE("virojano@coin-one.com","112233we")
 
-ki7 = LINE()
-ki7.log("Auth Token : " + str(gye.authToken))
-channelToken = ki7.getChannelResult()
-ki7.log("Channel Token : " + str(channelToken))
+ki7 = LINE("virojano@coin-one.com","112233we")
 
-ki8 = LINE()
-ki8.log("Auth Token : " + str(gye.authToken))
-channelToken = ki8.getChannelResult()
-ki8.log("Channel Token : " + str(channelToken))
+ki8 = LINE("virojano@coin-one.com","112233we")
 
-ki9 = LINE()
-ki9.log("Auth Token : " + str(gye.authToken))
-channelToken = ki9.getChannelResult()
-ki9.log("Channel Token : " + str(channelToken))
+ki9 = LINE("virojano@coin-one.com","112233we")
 
-ki10 = LINE()
-ki10.log("Auth Token : " + str(gye.authToken))
-channelToken = ki10.getChannelResult()
-ki10.log("Channel Token : " + str(channelToken))
+ki10 = LINE("virojano@coin-one.com","112233we")
 
-ki11 = LINE()
-ki11.log("Auth Token : " + str(gye.authToken))
-channelToken = ki11.getChannelResult()
-ki11.log("Channel Token : " + str(channelToken))
+ki11 = LINE("virojano@coin-one.com","112233we")
 
-ki12 = LINE()
-ki12.log("Auth Token : " + str(gye.authToken))
-channelToken = ki12.getChannelResult()
-ki12.log("Channel Token : " + str(channelToken))
+ki12 = LINE("virojano@coin-one.com","112233we")
 
-ki13 = LINE()
-ki13.log("Auth Token : " + str(gye.authToken))
-channelToken = ki13.getChannelResult()
-ki13.log("Channel Token : " + str(channelToken))
+ki13 = LINE("virojano@coin-one.com","112233we")
 
-ki14 = LINE()
-ki14.log("Auth Token : " + str(gye.authToken))
-channelToken = ki14.getChannelResult()
-ki14.log("Channel Token : " + str(channelToken))
+ki14 = LINE("virojano@coin-one.com","112233we")
 
-ki15 = LINE()
-ki15.log("Auth Token : " + str(gye.authToken))
-channelToken = ki15.getChannelResult()
-ki15.log("Channel Token : " + str(channelToken))
+ki15 = LINE("virojano@coin-one.com","112233we")
 
-ki16 = LINE()
-ki16.log("Auth Token : " + str(gye.authToken))
-channelToken = ki16.getChannelResult()
-ki16.log("Channel Token : " + str(channelToken))
+ki16 = LINE("virojano@coin-one.com","112233we")
 
-ki17 = LINE()
-ki17.log("Auth Token : " + str(gye.authToken))
-channelToken = ki17.getChannelResult()
-ki17.log("Channel Token : " + str(channelToken))
+ki17 = LINE("virojano@coin-one.com","112233we")
 
-ki18 = LINE()
-ki18.log("Auth Token : " + str(gye.authToken))
-channelToken = ki18.getChannelResult()
-ki18.log("Channel Token : " + str(channelToken))
+ki18 = LINE("virojano@coin-one.com","112233we")
 
-ki19 = LINE()
-ki19.log("Auth Token : " + str(gye.authToken))
-channelToken = ki19.getChannelResult()
-ki19.log("Channel Token : " + str(channelToken))
+ki19 = LINE("virojano@coin-one.com","112233we")
 
-ki20 = LINE()
-ki20.log("Auth Token : " + str(gye.authToken))
-channelToken = ki20.getChannelResult()
-ki20.log("Channel Token : " + str(channelToken))
+ki20 = LINE("virojano@coin-one.com","112233we")
 
-ki21 = LINE()
-ki21.log("Auth Token : " + str(gye.authToken))
-channelToken = ki21.getChannelResult()
-ki21.log("Channel Token : " + str(channelToken))
+ki21 = LINE("virojano@coin-one.com","112233we")
 
+ki22 = LINE("virojano@coin-one.com","112233we")
 
-ki22 = LINE()
-ki22.log("Auth Token : " + str(gye.authToken))
-channelToken = ki22.getChannelResult()
-ki22.log("Channel Token : " + str(channelToken))
+ki23 = LINE("virojano@coin-one.com","112233we")
 
-ki23 = LINE()
-ki23.log("Auth Token : " + str(gye.authToken))
-channelToken = ki23.getChannelResult()
-ki23.log("Channel Token : " + str(channelToken))
+ki24 = LINE("virojano@coin-one.com","112233we")
 
-ki24 = LINE()
-ki24.log("Auth Token : " + str(gye.authToken))
-channelToken = ki24.getChannelResult()
-ki24.log("Channel Token : " + str(channelToken))
+ki25 = LINE("virojano@coin-one.com","112233we")
 
-ki25 = LINE()
-ki25.log("Auth Token : " + str(gye.authToken))
-channelToken = ki25.getChannelResult()
-ki25.log("Channel Token : " + str(channelToken))
+ki26 = LINE("virojano@coin-one.com","112233we")
 
-ki26 = LINE()
-ki26.log("Auth Token : " + str(gye.authToken))
-channelToken = ki26.getChannelResult()
-ki26.log("Channel Token : " + str(channelToken))
+ki27 = LINE("virojano@coin-one.com","112233we")
 
-ki27 = LINE()
-ki27.log("Auth Token : " + str(gye.authToken))
-channelToken = ki27.getChannelResult()
-ki27.log("Channel Token : " + str(channelToken))
+ki28 = LINE("virojano@coin-one.com","112233we")
 
-ki28 = LINE()
-ki28.log("Auth Token : " + str(gye.authToken))
-channelToken = ki28.getChannelResult()
-ki28.log("Channel Token : " + str(channelToken))
+ki29 = LINE("virojano@coin-one.com","112233we")
 
-ki29 = LINE()
-ki29.log("Auth Token : " + str(gye.authToken))
-channelToken = ki29.getChannelResult()
-ki29.log("Channel Token : " + str(channelToken))
-
-ki30 = LINE()
-ki30.log("Auth Token : " + str(gye.authToken))
-channelToken = ki30.getChannelResult()
-ki30.log("Channel Token : " + str(channelToken))
+ki30 = LINE("virojano@coin-one.com","112233we")
 
 #kalo mau login menggunakan token
 #gunakan disini hapus tanda pagarnya 
