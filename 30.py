@@ -28,67 +28,67 @@ from googletrans import Translator
 botStart = time.time()
 #kalo mau login code qr disini pake
 
-gye = LINE()
+gye = LINE("EIajCBVexrbnY1qKBQUa.ZUNWFFF0F7d+RATzo251cG.mNNcPQQADyqrHdRDvYCrnGTTLrEJcRbmTTqNAe0E+Y4=")
 
-ais = LINE("virojano@coin-one.com","112233we")
+ais = LINE("EIZ6kTlRHB4uwuo45JI4.XSGBidRc1LqjwvsEyM9Mna.1zS0i/MyXN/rB64bvG7aTFHB8xotjtlYqf2uTCfxjSA=")
 
-ki2 = LINE("virojano@coin-one.com","112233we")
+ki2 = LINE("EIZ6kTlRHB4uwuo45JI4.XSGBidRc1LqjwvsEyM9Mna.1zS0i/MyXN/rB64bvG7aTFHB8xotjtlYqf2uTCfxjSA=")
 
-ki3 = LINE("virojano@coin-one.com","112233we")
+ki3 = LINE("EIZ6kTlRHB4uwuo45JI4.XSGBidRc1LqjwvsEyM9Mna.1zS0i/MyXN/rB64bvG7aTFHB8xotjtlYqf2uTCfxjSA=")
 
-ki4 = LINE("virojano@coin-one.com","112233we")
+ki4 = LINE("EIZ6kTlRHB4uwuo45JI4.XSGBidRc1LqjwvsEyM9Mna.1zS0i/MyXN/rB64bvG7aTFHB8xotjtlYqf2uTCfxjSA=")
 
-ki5 = LINE("virojano@coin-one.com","112233we")
+ki5 = LINE("EIZ6kTlRHB4uwuo45JI4.XSGBidRc1LqjwvsEyM9Mna.1zS0i/MyXN/rB64bvG7aTFHB8xotjtlYqf2uTCfxjSA=")
 
-ki6 = LINE("virojano@coin-one.com","112233we")
+ki6 = LINE("EIZ6kTlRHB4uwuo45JI4.XSGBidRc1LqjwvsEyM9Mna.1zS0i/MyXN/rB64bvG7aTFHB8xotjtlYqf2uTCfxjSA=")
 
-ki7 = LINE("virojano@coin-one.com","112233we")
+ki7 = LINE("EIZ6kTlRHB4uwuo45JI4.XSGBidRc1LqjwvsEyM9Mna.1zS0i/MyXN/rB64bvG7aTFHB8xotjtlYqf2uTCfxjSA=")
 
-ki8 = LINE("virojano@coin-one.com","112233we")
+ki8 = LINE("EIZ6kTlRHB4uwuo45JI4.XSGBidRc1LqjwvsEyM9Mna.1zS0i/MyXN/rB64bvG7aTFHB8xotjtlYqf2uTCfxjSA=")
 
-ki9 = LINE("virojano@coin-one.com","112233we")
+ki9 = LINE("EIZ6kTlRHB4uwuo45JI4.XSGBidRc1LqjwvsEyM9Mna.1zS0i/MyXN/rB64bvG7aTFHB8xotjtlYqf2uTCfxjSA=")
 
-ki10 = LINE("virojano@coin-one.com","112233we")
+ki10 = LINE("EIZ6kTlRHB4uwuo45JI4.XSGBidRc1LqjwvsEyM9Mna.1zS0i/MyXN/rB64bvG7aTFHB8xotjtlYqf2uTCfxjSA=")
 
-ki11 = LINE("virojano@coin-one.com","112233we")
+ki11 = LINE("EIZ6kTlRHB4uwuo45JI4.XSGBidRc1LqjwvsEyM9Mna.1zS0i/MyXN/rB64bvG7aTFHB8xotjtlYqf2uTCfxjSA=")
 
-ki12 = LINE("virojano@coin-one.com","112233we")
+ki12 = LINE("EIZ6kTlRHB4uwuo45JI4.XSGBidRc1LqjwvsEyM9Mna.1zS0i/MyXN/rB64bvG7aTFHB8xotjtlYqf2uTCfxjSA=")
 
-ki13 = LINE("virojano@coin-one.com","112233we")
+ki13 = LINE("EIZ6kTlRHB4uwuo45JI4.XSGBidRc1LqjwvsEyM9Mna.1zS0i/MyXN/rB64bvG7aTFHB8xotjtlYqf2uTCfxjSA=")
 
-ki14 = LINE("virojano@coin-one.com","112233we")
+ki14 = LINE("EIZ6kTlRHB4uwuo45JI4.XSGBidRc1LqjwvsEyM9Mna.1zS0i/MyXN/rB64bvG7aTFHB8xotjtlYqf2uTCfxjSA=")
 
-ki15 = LINE("virojano@coin-one.com","112233we")
+ki15 = LINE("EIZ6kTlRHB4uwuo45JI4.XSGBidRc1LqjwvsEyM9Mna.1zS0i/MyXN/rB64bvG7aTFHB8xotjtlYqf2uTCfxjSA=")
 
-ki16 = LINE("virojano@coin-one.com","112233we")
+ki16 = LINE("EIZ6kTlRHB4uwuo45JI4.XSGBidRc1LqjwvsEyM9Mna.1zS0i/MyXN/rB64bvG7aTFHB8xotjtlYqf2uTCfxjSA=")
 
-ki17 = LINE("virojano@coin-one.com","112233we")
+ki17 = LINE("EIZ6kTlRHB4uwuo45JI4.XSGBidRc1LqjwvsEyM9Mna.1zS0i/MyXN/rB64bvG7aTFHB8xotjtlYqf2uTCfxjSA=")
 
-ki18 = LINE("virojano@coin-one.com","112233we")
+ki18 = LINE("EIZ6kTlRHB4uwuo45JI4.XSGBidRc1LqjwvsEyM9Mna.1zS0i/MyXN/rB64bvG7aTFHB8xotjtlYqf2uTCfxjSA=")
 
-ki19 = LINE("virojano@coin-one.com","112233we")
+ki19 = LINE("EIZ6kTlRHB4uwuo45JI4.XSGBidRc1LqjwvsEyM9Mna.1zS0i/MyXN/rB64bvG7aTFHB8xotjtlYqf2uTCfxjSA=")
 
-ki20 = LINE("virojano@coin-one.com","112233we")
+ki20 = LINE("EIZ6kTlRHB4uwuo45JI4.XSGBidRc1LqjwvsEyM9Mna.1zS0i/MyXN/rB64bvG7aTFHB8xotjtlYqf2uTCfxjSA=")
 
-ki21 = LINE("virojano@coin-one.com","112233we")
+ki21 = LINE("EIZ6kTlRHB4uwuo45JI4.XSGBidRc1LqjwvsEyM9Mna.1zS0i/MyXN/rB64bvG7aTFHB8xotjtlYqf2uTCfxjSA=")
 
-ki22 = LINE("virojano@coin-one.com","112233we")
+ki22 = LINE("EIZ6kTlRHB4uwuo45JI4.XSGBidRc1LqjwvsEyM9Mna.1zS0i/MyXN/rB64bvG7aTFHB8xotjtlYqf2uTCfxjSA=")
 
-ki23 = LINE("virojano@coin-one.com","112233we")
+ki23 = LINE("EIZ6kTlRHB4uwuo45JI4.XSGBidRc1LqjwvsEyM9Mna.1zS0i/MyXN/rB64bvG7aTFHB8xotjtlYqf2uTCfxjSA=")
 
-ki24 = LINE("virojano@coin-one.com","112233we")
+ki24 = LINE("EIZ6kTlRHB4uwuo45JI4.XSGBidRc1LqjwvsEyM9Mna.1zS0i/MyXN/rB64bvG7aTFHB8xotjtlYqf2uTCfxjSA=")
 
-ki25 = LINE("virojano@coin-one.com","112233we")
+ki25 = LINE("EIZ6kTlRHB4uwuo45JI4.XSGBidRc1LqjwvsEyM9Mna.1zS0i/MyXN/rB64bvG7aTFHB8xotjtlYqf2uTCfxjSA=")
 
-ki26 = LINE("virojano@coin-one.com","112233we")
+ki26 = LINE("EIZ6kTlRHB4uwuo45JI4.XSGBidRc1LqjwvsEyM9Mna.1zS0i/MyXN/rB64bvG7aTFHB8xotjtlYqf2uTCfxjSA=")
 
-ki27 = LINE("virojano@coin-one.com","112233we")
+ki27 = LINE("EIZ6kTlRHB4uwuo45JI4.XSGBidRc1LqjwvsEyM9Mna.1zS0i/MyXN/rB64bvG7aTFHB8xotjtlYqf2uTCfxjSA=")
 
-ki28 = LINE("virojano@coin-one.com","112233we")
+ki28 = LINE("EIZ6kTlRHB4uwuo45JI4.XSGBidRc1LqjwvsEyM9Mna.1zS0i/MyXN/rB64bvG7aTFHB8xotjtlYqf2uTCfxjSA=")
 
-ki29 = LINE("virojano@coin-one.com","112233we")
+ki29 = LINE("EIZ6kTlRHB4uwuo45JI4.XSGBidRc1LqjwvsEyM9Mna.1zS0i/MyXN/rB64bvG7aTFHB8xotjtlYqf2uTCfxjSA=")
 
-ki30 = LINE("virojano@coin-one.com","112233we")
+ki30 = LINE("EIZ6kTlRHB4uwuo45JI4.XSGBidRc1LqjwvsEyM9Mna.1zS0i/MyXN/rB64bvG7aTFHB8xotjtlYqf2uTCfxjSA=")
 
 #kalo mau login menggunakan token
 #gunakan disini hapus tanda pagarnya 
